@@ -6,12 +6,14 @@
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/) and
 [GatorGrader](https://github.com/GatorEducator/gatorgrader/), this repository
-contains the starter files for a class activity four. The GitHub Actions CI builds for
+contains the starter files for a class activity seven. The GitHub Actions CI builds for
 this repository will fail, as evidenced by a red
 &#x2717; appearing in the commit logs.
 
-This assignment invites a developer to explore the use of GitHub and Python class design.
+This assignment invites a developer to explore the use of GitHub, Python class design, and scripts.
 
 ## Tasks
 
 - Create a class with at least three methods that follows SRP Analysis and DRY.
+
+- Create a script to run your Python program.
